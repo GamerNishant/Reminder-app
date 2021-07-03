@@ -9,10 +9,10 @@ Below is it's working.
 | Application    | Pictures      | 
 | :-----------: |:-------------:| 
 | Picture 1      | Picture 2 |
-|<img src="project Images/Picture1.jpg" alt="Project Picture 1"/>|<img src="project Images/Picture2.jpg" alt="Project Picture 2"/>|
+|<img src="./Project%20Images/Picture1.jpg" alt="Project Picture 1"/>|<img src="./Project%20Images/Picture2.jpg" alt="Project Picture 2"/>|
 | Picture 3      | Picture 4 |
-|<img src="project Images/Picture3.jpg" alt="Project Picture 3"/>|<img src="project Images/Picture4.jpg" alt="Project Picture 4"/>|
+|<img src="./Project%20Images/Picture3.jpg" alt="Project Picture 3"/>|<img src="./Project%20Images/Picture4.jpg" alt="Project Picture 4"/>|
 | Picture 5      | Picture 6 |
-|<img src="project Images/Picture5.jpg" alt="Project Picture 5"/>|<img src="project Images/Picture6.jpg" alt="Project Picture 6"/>|
+|<img src="./Project%20Images/Picture5.jpg" alt="Project Picture 5"/>|<img src="./Project%20Images/Picture6.jpg" alt="Project Picture 6"/>|
 | Picture 7      | 
-|<img src="project Images/Picture7.jpg" alt="Project Picture 7"/>|
+|<img src="./Project%20Images/Picture7.jpg" alt="Project Picture 7"/>|
